@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-A 7-day weather forecast app with two interfaces: an interactive web dashboard and a Python CLI script. Both use the [Open-Meteo](https://open-meteo.com/) API — no API key required.
+A 7-day weather forecast app with two interfaces: an interactive web dashboard and a Python CLI script. Both use the [Open-Meteo](https://open-meteo.com/) API, no API key required.
 
 ## Features
 
@@ -53,3 +53,8 @@ Output: a text table in the terminal and a `weather_forecast.png` chart saved to
 - **Chart.js** (web) — interactive temperature trend line chart
 - **matplotlib** (CLI) — static forecast chart saved as PNG
 - **Vanilla HTML/CSS/JS** — no build tools or frameworks
+
+
+## Screenshots
+![Weather Dashboard](weather_screenshot_1.png)
+![Weather Dashboard 2](weather_screenshot_2.png)
